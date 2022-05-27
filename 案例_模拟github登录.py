@@ -41,8 +41,8 @@ def login():
     data = {
         'commit': 'Sign in',
         'authenticity_token': token,
-        'login': '1972475358 @ qq.com',
-        'password': 'woshengri826',
+        'login': '',
+        'password': '',
         'trusted_device': '',
         'webauthn-support': 'supported',
         'webauthn-iuvpaa-support': 'unsupported',
